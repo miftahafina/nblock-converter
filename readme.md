@@ -2,4 +2,4 @@
 Nintendo® Block Converter
 
 ## Usage
-py nblock-converter.py
+```py nblock-converter.py```
